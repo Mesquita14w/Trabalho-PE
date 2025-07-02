@@ -4,7 +4,9 @@ Este repositório contém o meu trabalho final da matéria de Probabilidade e Es
 ---
 
 ## 📋 Etapas do Trabalho:
-Realizar uma Regressão Linear Múltipla com dados de sua escolha, testar a significância da Regressão para verificar se existe uma regressão linear entre a variável Y e as demais variáveis X e testar a significância de cada coeficiente.
+- Realizar uma Regressão Linear Múltipla com dados de sua escolha;
+- Testar a significância da Regressão para verificar se existe uma regressão linear entre a variável Y e as demais variáveis X;
+- Testar a significância de cada coeficiente.
 
 Este projeto realiza análise preditiva de preços de aluguel com base em dados de imóveis. Ideal para estudantes de ciência de dados.
 
@@ -12,7 +14,7 @@ Este projeto realiza análise preditiva de preços de aluguel com base em dados 
 
 ## 🚀 Como Executar no Google Colab
 
-1. Acesse o notebook diretamente pelo arquivo do notebook no repositório clicando no botão **"Open in Colab"**;
+1. Acesse o notebook diretamente pelo arquivo `main.ipynb` no repositório principal, ao abri-lo, clique no botão **"Open in Colab"** para acessar o notebook diretamente no Google Colab;
 
 2. Baixe o arquivo do dataset disponível no repositório e o importe no Google Drive;
 
