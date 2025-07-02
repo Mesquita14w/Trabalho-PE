@@ -20,6 +20,8 @@ Este projeto realiza análise preditiva de preços de aluguel com base em dados 
 
 3. Para executar, clique em `Runtime` > `Run all` (ou `Executar` > `Executar tudo` se estiver em português).
 
+OBS: O recomendado é executar esse projeto no Google Colab, mas caso queira executar o trabalho diretamente no seu ambiente de trabalho (IDE), acesse a pasta `Python` no diretório principal, lá estão disponíveis todos os códigos do trabalho de maneira limpa e organizada, não se esqueça de ler o arquivo `python.md` para conseguir executar todos os códigos da maneira correta.
+
 ---
 
 ## 📦 Requisitos (se necessário)
